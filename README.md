@@ -1,4 +1,4 @@
-# householdbuilder
+# Household Builder
 Household builder -  captures information about a household applying for health insurance coverage.
 
 - Validates data entry (age is required and > 0, relationship is required)
